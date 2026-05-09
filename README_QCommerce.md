@@ -82,7 +82,7 @@ quick-commerce-analysis/
 
 1. Clone this repository
    ```bash
-   git clone https://github.com/YOUR_USERNAME/quick-commerce-analysis.git
+   git clone https://github.com/ManasDhotre/quick-commerce-analysis.git
    cd quick-commerce-analysis
    ```
 2. Install dependencies
@@ -104,8 +104,8 @@ quick-commerce-analysis/
 Aspiring Data Scientist | Python · Pandas · Plotly · Scikit-learn
 📍 Pune, India
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/manas-dhotre)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/ManasDhotre)
 
 ---
 
